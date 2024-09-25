@@ -16,3 +16,10 @@ for kor in evszamok:
 if ev > legidosebb:
     legidosebb+=ev
 print(f"A legidősebb:{legidosebb}")
+
+for number in evszamok:
+if number < 2000:
+ketezeralattiak.append(number):
+ Ketezeralattiak.sort()
+
+print(len(evszamok))
