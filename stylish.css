@@ -1,0 +1,30 @@
+body{
+    background-image: url(gugya.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+
+section {
+    background-color: rgba(237,233,253,0.5);
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 20px;
+}figure{
+    text-align: center;
+}
+h1
+h2{
+    text-align: center;
+
+}
+p{
+    text-align: justify;
+}
+
+.bombasticsideeye{
+    width: 200px;
+    margin: auto;
+    text-align: center;
+}
