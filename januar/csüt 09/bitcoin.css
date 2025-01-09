@@ -1,0 +1,23 @@
+caption{
+    caption-side: top;
+}
+*{
+    color: white;;
+}
+body{
+    background-image: url(hatter.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1,h2{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+
+strong{
+    font-size: 24px;
+}
