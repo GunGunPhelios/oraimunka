@@ -1,0 +1,46 @@
+*{
+    background-color: floralwhite;
+}
+.h1szoveg{
+    text-decoration: none;
+    text-align: right;
+}
+
+.filantróp{
+    text-decoration: none;
+}
+
+.container{
+    margin-left: -200px; /* Bal szélt kifele tolja */
+    margin-right: -200px; /* Jobb szélt kifele tolja */
+    background-color: floralwhite; /* A háttér színe */
+    padding: 20px; /* A belső tartalom körüli tér */
+   
+}
+
+#soros{
+    position: absolute;left:10 px;right: 50px;top:100px;
+    align-items: flex;
+    width: 200px;
+    height: auto;
+    border-radius: 15%;
+
+
+}
+
+.freemail{
+    text-align: left;
+    text-decoration: none;
+
+
+}
+
+.frímail{
+    position: absolute;left: 25px; bottom: 100px;
+    align-items: flex;
+    width: 200px;
+    height: auto;
+        
+        
+    
+    }
