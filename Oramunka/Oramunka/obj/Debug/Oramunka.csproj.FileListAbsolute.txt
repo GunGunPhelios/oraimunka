@@ -1,0 +1,7 @@
+C:\Users\Asus-01\source\repos\Oramunka\Oramunka\obj\Debug\Oramunka.csproj.AssemblyReference.cache
+C:\Users\Asus-01\source\repos\Oramunka\Oramunka\obj\Debug\Oramunka.csproj.CoreCompileInputs.cache
+C:\Users\Asus-01\source\repos\Oramunka\Oramunka\bin\Debug\Oramunka.exe.config
+C:\Users\Asus-01\source\repos\Oramunka\Oramunka\bin\Debug\Oramunka.exe
+C:\Users\Asus-01\source\repos\Oramunka\Oramunka\bin\Debug\Oramunka.pdb
+C:\Users\Asus-01\source\repos\Oramunka\Oramunka\obj\Debug\Oramunka.exe
+C:\Users\Asus-01\source\repos\Oramunka\Oramunka\obj\Debug\Oramunka.pdb
